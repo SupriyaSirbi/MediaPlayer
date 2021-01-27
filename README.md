@@ -18,12 +18,12 @@ User can start using Alexa after successful login. Code Based Linking (CBL) is a
 
 This techique consists of the below steps
 
-Step 1: User opens Alexa App
-Step 2: Request Permissions for Mic, Phone Calls, Messages, Audio etc
-Step 3: Give an overview of what Alexa can do
-Step 4: Generate a 6 digit code also called CBL code for user authorization. Display the Amazon URL along with code for login
-Step 5: User enters the Amazon URL in the browser of any device PC, mobile etc along with CBL code.
-Step 6: After sometime Login Completes, user can now start using Alexa in the vehicle.
+* Step 1: User opens Alexa App
+* Step 2: Request Permissions for Mic, Phone Calls, Messages, Audio etc
+* Step 3: Give an overview of what Alexa can do
+* Step 4: Generate a 6 digit code also called CBL code for user authorization. Display the Amazon URL along with code for login
+* Step 5: User enters the Amazon URL in the browser of any device PC, mobile etc along with CBL code.
+* Step 6: After sometime Login Completes, user can now start using Alexa in the vehicle.
 
 # Aptiv Alexa App Integration with Custom Skill
 
