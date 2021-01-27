@@ -8,7 +8,7 @@ Aptiv Alexa App interacts with Alexa SDK modules to send and receive messages fo
 
 > **Note**: This diagram shows only some of the available platform interfaces.
 
-<img src="./assets/aptiv_alexa_app_architecture.png" />
+<img src="aptiv_alexa_app_architecture.png" />
 </p>
 </details>
 
