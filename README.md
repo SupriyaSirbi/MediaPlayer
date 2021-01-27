@@ -1,13 +1,15 @@
-# MediaPlayer Android Application
-This is a Mediaplayer Android Application. Feel free to use this repo as the first step towards Android App Development.
+# Overview of the Aptiv Alexa Application
 
-# Step 1
-  Create an Android Project with the name as <b>MediaPlayer</b> in Android Studio
+The Alexa Auto SDK contains essential client-side software required to integrate Alexa into the automobile. The Auto SDK is modular and abstract, providing a runtime engine for your vehicle to communicate with the Alexa service. It also provides interfaces to implement platform-specific behavior, such as audio input, media playback, template and state rendering, phone control, and navigation. After you build and install the Auto SDK, you can use the Aptiv Alexa App in Android, to test the Auto SDK interfaces and interactions with Media, Navigation, Radio and other modules on Platform.
 
-# Step 2
-  Add <b>Android Resources</b> for MediaPlayer App
-  - app/src/main/res/drawable/ - this folder contains all the drawable resources like images for Media Player
-  - app/src/main/res/raw - this folder contains all the Audio files for Media Streaming
+# Aptiv Alexa App Design
 
-# Step 3
+Aptiv Alexa App interacts with Alexa SDK modules to send and receive messages for media, navigation, phone call etc. The below design provides a brief overview for the same
+
+> **Note**: This diagram shows only some of the available platform interfaces.
+
+<img src="./assets/aptiv_alexa_app_architecture.png" />
+</p>
+</details>
+
   
